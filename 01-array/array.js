@@ -1,4 +1,4 @@
 // define an array with 5 elements
-const array = [];
+const array = ["maang", "pattate", "limone", "carotte", "cavoli",];
 // console.log() the 3rd element
-console.log();
+console.log(array[2]);
